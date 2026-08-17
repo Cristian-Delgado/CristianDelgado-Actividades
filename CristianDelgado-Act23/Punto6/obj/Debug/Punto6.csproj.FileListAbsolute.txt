@@ -1,2 +1,0 @@
-C:\Users\usuario\source\repos\CristianDelgado-Act23\Punto6\obj\Debug\Punto6.csproj.AssemblyReference.cache
-C:\Users\usuario\source\repos\CristianDelgado-Act23\Punto6\obj\Debug\Punto6.csproj.CoreCompileInputs.cache
