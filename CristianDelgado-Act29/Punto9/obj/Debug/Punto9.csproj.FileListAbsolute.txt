@@ -1,0 +1,10 @@
+C:\Users\cristiand035\source\repos\CristianDelgado-Act29\Punto9\bin\Debug\Punto9.exe.config
+C:\Users\cristiand035\source\repos\CristianDelgado-Act29\Punto9\bin\Debug\Punto9.exe
+C:\Users\cristiand035\source\repos\CristianDelgado-Act29\Punto9\bin\Debug\Punto9.pdb
+C:\Users\cristiand035\source\repos\CristianDelgado-Act29\Punto9\obj\Debug\Punto9.csproj.AssemblyReference.cache
+C:\Users\cristiand035\source\repos\CristianDelgado-Act29\Punto9\obj\Debug\Punto9.Form1.resources
+C:\Users\cristiand035\source\repos\CristianDelgado-Act29\Punto9\obj\Debug\Punto9.Properties.Resources.resources
+C:\Users\cristiand035\source\repos\CristianDelgado-Act29\Punto9\obj\Debug\Punto9.csproj.GenerateResource.cache
+C:\Users\cristiand035\source\repos\CristianDelgado-Act29\Punto9\obj\Debug\Punto9.csproj.CoreCompileInputs.cache
+C:\Users\cristiand035\source\repos\CristianDelgado-Act29\Punto9\obj\Debug\Punto9.exe
+C:\Users\cristiand035\source\repos\CristianDelgado-Act29\Punto9\obj\Debug\Punto9.pdb
